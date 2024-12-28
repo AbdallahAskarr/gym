@@ -1,0 +1,43 @@
+#first_div {
+    margin-top: 20px;
+    /* background-color: #faf9fe; */
+}
+
+#img1 {
+    width: 100%;
+    filter: contrast(1.4);
+}
+
+#span1 {
+    position: relative;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+    font-size: 2.25rem;
+    font-weight: 700;
+}
+
+#span1::after {
+    position: absolute;
+    content: "";
+    left: 0;
+    bottom: 0;
+    width: 50px;
+    height: 3px;
+    background-color: #f92524;
+}
+
+#info1 {
+    font-weight: 400;
+}
+
+#text1 {
+    margin-top: 15px;
+    font-weight: 300;
+}
+
+#btn1 {
+    background-color: #f92524;
+    color: white;
+    border: #f92524 solid 3px;
+    border-radius: 4px;
+}

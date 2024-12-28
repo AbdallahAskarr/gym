@@ -1,0 +1,50 @@
+.nav-link:hover {
+    color: #f92524;
+
+}
+
+.nav-link {
+    color: red;
+    position: relative;
+    left: 110px;
+
+}
+
+#a {
+    font-weight: 600;
+}
+
+#a:hover {
+    color: #f92524;
+}
+
+#aa {
+    font-weight: 600;
+    margin-left: 14px;
+    margin-top: 7px;
+    background-color: #f92524;
+    height: 30px;
+    width: 100px;
+    border: #f92524 solid 2px;
+    border-radius: 7px;
+    color: white;
+    position: relative;
+    left: 95px;
+}
+
+#logo {
+    font-weight: 600;
+    font-family: serif;
+    font-size: 25px;
+}
+
+#navv {
+    background-color: #faf9fe;
+}
+
+#loggo {
+    height: 25px;
+    margin: 0 auto;
+    margin-left: 20px;
+    filter: contrast(1.3);
+}

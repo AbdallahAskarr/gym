@@ -1,0 +1,70 @@
+#img8 {
+    width: 90%;
+    height: 300px;
+    border-radius: 30px;
+}
+
+#a {
+    border-radius: 30px;
+
+}
+
+#im {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    position: relative;
+    left: 10px;
+    bottom: 30px;
+    filter: contrast(1.4);
+}
+
+#starss {
+    color: gold;
+    position: relative;
+    bottom: 10px;
+    left: 10px;
+}
+
+#icon9 {
+    margin: 3px;
+}
+
+#text8 {
+    position: relative;
+    left: 10px;
+    font-weight: 300;
+}
+
+#info8 {
+    position: relative;
+    left: 10px;
+}
+
+#endd_card {
+    /* border: none; */
+    box-shadow: 1px 0px 1.5px black;
+}
+
+#span10 {
+    position: relative;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+    font-size: 2.25rem;
+    font-weight: 400;
+}
+
+#span10::after {
+    position: absolute;
+    content: "";
+    left: 0;
+    bottom: 0;
+    width: 50px;
+    height: 3px;
+    background-color: #f92524;
+}
+
+#texttt {
+    margin-top: 20px;
+    font-weight: 300;
+}

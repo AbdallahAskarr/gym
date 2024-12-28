@@ -1,0 +1,57 @@
+#span5 {
+    position: relative;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+    font-size: 2.25rem;
+
+    font-weight: 400;
+}
+
+#span5::after {
+    position: absolute;
+    content: "";
+    left: 04rem;
+    bottom: 0;
+    width: 50px;
+    height: 3px;
+    background-color: #f92524;
+}
+
+#text5 {
+    margin-top: 20px;
+    font-weight: 300;
+}
+
+#img5 {
+    width: 100%;
+    height: 100%;
+filter: contrast(1.4);
+}
+
+#child5 {
+    display: grid;
+    align-content: center;
+    position: relative;
+    left: 10px;
+}
+
+#a5 {
+    text-decoration: none;
+}
+
+
+#icon5 {
+    margin-left: 12px;
+    color: black;
+    opacity: .6;
+}
+
+#icon5:hover {
+    color: #f92524;
+    opacity: 1;
+}
+
+#a5:hover {
+    color: #f92524;
+    opacity: 1;
+}

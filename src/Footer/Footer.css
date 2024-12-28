@@ -1,0 +1,31 @@
+#endinfo {
+    margin-bottom: 40px;
+    font-weight: 500;
+}
+
+#textendd {
+    font-weight: 300;
+}
+
+#hh {
+    font-weight: 300;
+}
+
+#foo {
+    background-color: #faf9fe;
+}
+
+#gicon {
+    border: 1px solid black;
+    opacity: .8;
+    width: 40px;
+    border-radius: 20px;
+    height: 40px;
+    margin-left: 4px;
+}
+#gicon:hover{
+    border: 1px solid #f92524;
+    opacity: 1;
+    color: #f92524;
+}
+
